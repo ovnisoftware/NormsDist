@@ -11,7 +11,7 @@ standard deviations, just run this function:
 //Probability of being below 3 standard deviations is 99.86%
 //minus the probability of being above 1 standard deviation
 //is 84.13%, so you get .1573 or 15.73% as the answer.
-double answer = N(3) - N(1);
+double answer = NormsDist.N(3) - NormsDist.N(1);
 ```
 
 I found the code here:
