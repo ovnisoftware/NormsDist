@@ -4,7 +4,7 @@ NormsDist
 C# Implementation of the Excel NormsDist function
 
 NormsDist is a statistical function in Excel.  It's useful for calculating the area under a a curve and for calculating
-probabilities.  For example, if you want to calculate the probability of something occuring between +1 and +3
+probabilities.  For example, if you want to calculate the probability of something occurring between +1 and +3
 standard deviations, just run this function:
 
 ```

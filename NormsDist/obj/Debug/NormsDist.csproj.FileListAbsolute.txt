@@ -1,0 +1,12 @@
+c:\users\tester\documents\visual studio 2013\Projects\NormsDist\NormsDist\bin\Debug\NormsDist.exe.config
+c:\users\tester\documents\visual studio 2013\Projects\NormsDist\NormsDist\obj\Debug\NormsDist.csprojResolveAssemblyReference.cache
+c:\users\tester\documents\visual studio 2013\Projects\NormsDist\NormsDist\bin\Debug\NormsDist.exe
+c:\users\tester\documents\visual studio 2013\Projects\NormsDist\NormsDist\bin\Debug\NormsDist.pdb
+c:\users\tester\documents\visual studio 2013\Projects\NormsDist\NormsDist\obj\Debug\NormsDist.exe
+c:\users\tester\documents\visual studio 2013\Projects\NormsDist\NormsDist\obj\Debug\NormsDist.pdb
+C:\Users\tester\Documents\GitHub\NormsDist\NormsDist\bin\Debug\NormsDist.exe.config
+C:\Users\tester\Documents\GitHub\NormsDist\NormsDist\obj\Debug\NormsDist.exe
+C:\Users\tester\Documents\GitHub\NormsDist\NormsDist\obj\Debug\NormsDist.pdb
+C:\Users\tester\Documents\GitHub\NormsDist\NormsDist\bin\Debug\NormsDist.exe
+C:\Users\tester\Documents\GitHub\NormsDist\NormsDist\bin\Debug\NormsDist.pdb
+C:\Users\tester\Documents\GitHub\NormsDist\NormsDist\obj\Debug\NormsDist.csprojResolveAssemblyReference.cache

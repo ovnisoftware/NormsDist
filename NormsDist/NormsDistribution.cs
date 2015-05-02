@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NormsDist
 {
-    static class NormsDist
+    public static class NormsDistribution
     {
         //This is a conversion of the NORMSDIST() function from Excel.  The x value represents the z value and the function
         //converts it into a percentage.  3 standard deviations is 99.86% so NORMSDIST(3) returns .9986...
@@ -32,4 +32,6 @@ namespace NormsDist
             }
         }
     }
+    ////Call this from Program.cs to test
+    //Console.WriteLine(NormsDistribution.N(3));
 }
